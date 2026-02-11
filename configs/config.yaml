@@ -3,4 +3,4 @@ epochs: 30
 lr: 0.001
 label_smoothing: 0.1
 seed: 42
-model: improved
+model: all
