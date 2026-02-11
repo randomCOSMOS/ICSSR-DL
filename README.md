@@ -52,12 +52,12 @@ A fixed seed is used so that the same split can be recreated across runs.
 
 Metric files are saved in:
 
-outputs/metrics/baseline_metrics.txt  
-outputs/metrics/improved_metrics.txt  
+`outputs/metrics/baseline_metrics.txt`  
+`outputs/metrics/improved_metrics.txt`
 
 Plots are saved in:
 
-outputs/plots/
+`outputs/plots/`
 
 ## Results
 
@@ -94,7 +94,7 @@ outputs/plots/
 ## Best Result
 
 Improved CNN  
-Test Accuracy: 80.04%
+Test Accuracy: `80.04%`
 
 ## Additions
 
@@ -105,3 +105,4 @@ Test Accuracy: 80.04%
 - Ability to run both or individual models
 - CPU-only execution
 - Grad-CAM visualization module included
+
